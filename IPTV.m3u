@@ -1,6 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="updt" tvg-logo="upd.png",actualizada en foro CHW.net por los propios usuarios **  
+http://?
 
-#EXTINF:-1,MaxPrime
-http://iptv.latino-webtv.com/stalker.php?ch=MaxPrimeLASD&id=377
-
-    
+#EXTINF:-1 group-title="Nacionales",.: NACIONALES :.
+#EXTINF:0, La Red HD
+http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
