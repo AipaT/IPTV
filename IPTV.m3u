@@ -37,6 +37,9 @@ http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535
 #EXTINF:-1 tvg-logo="http://s18.postimg.org/ad28053vd/Trece_HD.png" group-title="Cable",Trece HD
 http://200.76.77.237/LIVE/H01/CANAL13/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="http://s17.postimg.org/dvtsjipj3/FOX_NFL.jpg" group-title="Cable",FOX NFL
-http://200.76.77.237/LIVE/H01/CANAL17/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TRECE HD 
+http://200.76.77.237/LIVE/H01/CANAL23/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,PROYECTO 40
+http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,AZ CORAZON
 
