@@ -8,3 +8,6 @@ http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 #EXTINF:-1 tvg-logo="http://s14.postimg.org/410ofefvl/TVN_HD.png" group-title="Nacionales",TVN HD
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 
+#EXTINF:-1 tvg-logo="http://s23.postimg.org/cwrqvhj4r/TV_Chile.png" group-title="Nacionales",TVN Chile
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+
