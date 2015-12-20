@@ -20,30 +20,4 @@ http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_c_cl_zpsoueja6s7.png" group-title="NACIONALES", C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
-#EXTINF:0,-Regionales-
-
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/vemastv_zpsyhmymsvg.png" group-title="REGIONALES", Mas Tv Arica 
-http://186.67.39.227:1935/Mastv/myStream/playlist.m3u8?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/morrovision_zpsgualkdpl.png" group-title="REGIONALES", Morro Visión Arica 
-http://video.crearchile.com:8080/live/mp4:morrovision.mp4/playlist.m3u8?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/cap_zpsaosigst3.png" group-title="REGIONALES", Cappissima Multimedial Arica
-http://scl.streaminghd.cl/8032/8032/chunklist_w1970467867.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/arica_zpssvguoat9.png" group-title="REGIONALES",Arica Tv
-http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/vive_zpsb7x15dmx.png" group-title="REGIONALES", Vive Chile Antofagasta 
-http://190.107.176.167:1935/live/vive-chile-antofagasta/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/dch_tv_cl_zpsekztvb2k.png" group-title="REGIONALES",Digital Channel Tv Antofagasta 
-http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/antofagasta_tv_cl_zps9q2wlmjw.png" group-title="REGIONALES",Antofagasta Tv Antofagasta
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/am_zpslbw9inor.png" group-title="REGIONALES",Am Antofagasta
-http://190.107.176.167:1935/live/am-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/cmds_zpss1x4t0fg.png" group-title="REGIONALES", CMDS Antofagasta 
-http://190.107.176.167:1935/live/corporacion-antofagasta/playlist.m3u8?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/calama%20televison_zpstiwjmawd.png" group-title="REGIONALES", Calama Tv
-http://iphone-streaming.ustream.tv/ustreamVideo/10819022/streams/live/playlist.m3u8?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/cl-reg-holvoet_zpsox7uxnwt.png" group-title="REGIONALES",Holvoet Copiapo 
-http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tv33_zpsmb5drfvg.png" group-title="REGIONALES", TV33 Copiapo 
-http://192.186.154.195:80/mcopiapo/tdq7m.sdp/playlist.m3u8?
 
