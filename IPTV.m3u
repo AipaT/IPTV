@@ -37,10 +37,9 @@ http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535
 #EXTINF:-1 tvg-logo="http://s18.postimg.org/ad28053vd/Trece_HD.png" group-title="Cable",Trece HD
 http://200.76.77.237/LIVE/H01/CANAL13/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-
-#EXTINF:-1 tvg-logo="http://s18.postimg.org/8o2bjk2xl/Proyecto_40.png" group-title="Premium GENEIPTV" ,Proyecto 40
+#EXTINF:-1 tvg-logo="http://s18.postimg.org/8o2bjk2xl/Proyecto_40.png" group-title="Cable" ,Proyecto 40
 http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,AZ CORAZON
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/7psccrvlr/AZ_Corazo_n.jpg" group-title="Cable" ,AZ Corazón
 http://200.76.77.237/LIVE/H01/CANAL45/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
