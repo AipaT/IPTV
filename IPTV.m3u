@@ -27,6 +27,6 @@ http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
 #EXTINF:0,Cable
 
-#EXTINF:-1 tvg-logo="http://s7.postimg.org/7mk1204cr/AZ_Noticias.png" group-title="Cable",AZ Noticias
+#EXTINF:-1 tvg-logo="http://s14.postimg.org/wwa5o21nl/AZ_Noticias.png" group-title="Cable",AZ Noticias
 http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
