@@ -34,6 +34,6 @@ http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?-1332%2F1499-20150816T153535
 #EXTINF:-1 tvg-logo="http://s9.postimg.org/vnd0bzz7z/AZ_Noticias.png" group-title="Cable",Canal 7
 http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="http://s18.postimg.org/ad28053vd/Trece_HD.png" group-title="Cable",El Trece HD
+#EXTINF:-1 tvg-logo="http://s18.postimg.org/ad28053vd/Trece_HD.png" group-title="Cable",Trece HD
 http://200.76.77.237/LIVE/H01/CANAL13/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
