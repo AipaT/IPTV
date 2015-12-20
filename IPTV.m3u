@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:0, La Red HD
+#EXTINF:-1 tvg-logo="http://i66.tinypic.com/21oyp7n.png" group-title="Nacionales",La Red HD 
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
