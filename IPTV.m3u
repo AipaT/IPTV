@@ -5,4 +5,6 @@ http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist
 #EXTINF:-1 tvg-logo="http://s2.postimg.org/4j5w1y5ih/UCV.png" group-title="Nacionales",UCV HD
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 
+#EXTINF:-1 tvg-logo="http://s14.postimg.org/410ofefvl/TVN_HD.png" group-title="Nacionales",TVN HD
+http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 
