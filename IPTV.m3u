@@ -578,3 +578,8 @@ http://playkodi.info/normalize/?lib=-476848891
 
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Baby TV" tvg-name="Baby TV" tvg-logo="Baby TV" group-title="INFANTILES",Baby TV
 http://playkodi.info/genius/caba.php?lib=9876890&f=.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Cinema Dinamita" tvg-name="Canal Cinema Dinamita" tvg-logo="Cine Dinamita" group-title="PELÍCULAS-SERIES",Cine Dinamita
+http://playkodi.info/genius/caba.php?lib=9880038&f=.m3u8
+
+
