@@ -466,5 +466,15 @@ http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
 #EXTINF:0,LATINOS:Euronews
 http://iptvcanales.com/xw/cable.php?canal=68&player=playlist.m3u8
 
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", Camara de Diputados
+rtsp://origin.camara.ztreaming.com/origincamara8/streamcam8.sdp
 
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", LIV TV (HD)
+http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", Teletrak
+http://movilstream.digitalproserver.com/sporting/sportingvivo/livestream1/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", Aljazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 
