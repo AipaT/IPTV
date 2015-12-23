@@ -487,4 +487,18 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
 #EXTINF:-1, tvg-logo="" group-title="Canales Miscelaneos", VMas+ TV 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
+#EXTINF:-1 group-title="Deportes",  CDN Sport Max
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+
+#EXTINF:-1 group-title="Cultura", RT Documentary HD
+http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
+
+#EXTINF:-1 group-title="Deportes", AutoSport TV
+mms://83.222.173.94/100livesport
+
+#EXTINF:-1 group-title="Deportes", Azteca Deportes
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
+
+#EXTINF:-1 group-title="Deportes", FANATIK SPOR
+rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
 
