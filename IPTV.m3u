@@ -613,5 +613,17 @@ http://playkodi.info/genius/caba.php?lib=9876942&f=.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal HBO Signature Latinoamérica" tvg-name="Canal HBO Signature Latinoamérica" tvg-logo="HBO Signature" group-title="PREMIUM",HBO Signature
 http://playkodi.info/genius/caba.php?lib=9877024&f=.m3u8
 
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Max (Este)" tvg-name="Canal Max (Este)" tvg-logo="MAX" group-title="PREMIUM",MAX
+http://playkodi.info/genius/caba.php?lib=9876954&f=.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal MAX Prime Este" tvg-name="Canal MAX Prime Este" tvg-logo="Max Prime Este" group-title="PREMIUM",Max Prime Este
+http://playkodi.info/genius/caba.php?lib=9876950&f=.m3u8
+
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal MAX Prime Oeste" tvg-name="Canal MAX Prime Oeste" tvg-logo="Max Prime Oeste" group-title="PREMIUM",Max Prime Oeste
+http://playkodi.info/genius/caba.php?lib=9876952&f=.m3u8
+
+
+
 
 
