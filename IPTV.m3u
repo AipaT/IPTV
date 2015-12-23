@@ -548,3 +548,16 @@ http://playkodi.info/normalize/?lib=1289791845
 
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Multimedios Plus" tvg-name="Canal Multimedios Plus" tvg-logo="Multimedios Plus" group-title="ENTRETENIMIENTO",Multimedios Plus
 http://playkodi.info/genius/caba.php?lib=9878032&f=.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Mundo Fox" tvg-name="Mundo Fox" tvg-logo="Mundo Fox" group-title="ENTRETENIMIENTO",Mundo Fox
+http://playkodi.info/genius/caba.php?lib=9877002&f=.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Mundo Max" tvg-name="Mundo Max" tvg-logo="Mundo Max" group-title="ENTRETENIMIENTO",Mundo Max
+http://playkodi.info/genius/caba.php?lib=9883687&f=.m3u8
+
+EXTINF:-1 tvg-id="Lista PLAY-KODI Pasiones (USA) (PASN)" tvg-name="Pasiones (USA) (PASN)" tvg-logo="logo_pasiones.jpg" group-title="ENTRETENIMIENTO",Pasiones
+http://playkodi.info/genius/caba.php?lib=9876868&f=.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI KXTX (TELEMUNDO)" tvg-name="KXTX (TELEMUNDO)" tvg-logo="z" group-title="ENTRETENIMIENTO",Telemundo 39
+http://playkodi.info/normalize/?lib=-809090234
+
