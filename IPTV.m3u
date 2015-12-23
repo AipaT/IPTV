@@ -304,14 +304,20 @@ http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,AYM
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,ESPN +
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,ESPN+
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,ESPN+ HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,ESPN
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,ESPN 2 HD REVISAR
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,ESPN 3
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,ESPN 3 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,ESPN 2
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -319,19 +325,100 @@ http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Fox Sport
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Fox Sport 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,MTV Live HD
 http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Telehit HD
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,VH1 HD
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,MTV Hits
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Classic 1
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Ritmoson
+http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Bandamax
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Milenio
+http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,El Financiero
+http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,TVE
+http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Venus
+http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Brazzers Europe
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Olala
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Passion XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Brasileirinhas
+http://212.129.30.215/brasileirinhas/brasileirinhas/live.m3u8
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Private
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Jasmin.TV
+rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Sex Station
+http://publish.thewebstream.co:1935/bsx24/mpegts1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Sex Station
+http://publish.thewebstream.co:1935/bsx24/mpegts1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,EWTN
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-4/900.mp4/livestream.m3u8
 
 
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,TyC Sports
+http://live.vodgc.com:1935/kLive/0_a5h483eu_all.smil/stream.m3u8
 
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,TyC Sports HD ?
+http://q.gs:80/9830047/todokodi4?live.m3u8
 
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Tateti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,WOBI TV
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Hola TV
+http://200.76.77.237/LIVE/H01/CANAL219/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,CDO HD
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Paka Paka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,NASA
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
+
+#EXTINF:-1 group-title="Kids", Anime en Español
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
 
 
