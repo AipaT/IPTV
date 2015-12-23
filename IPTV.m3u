@@ -536,3 +536,15 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
 
 #EXTINF:-1,Nat Geo http://stalker.darkuzdev.cf:8080/streamer/269.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI AXN White" tvg-name="AXN White" tvg-logo="AXN White" group-title="ENTRETENIMIENTO",AXN White
+http://playkodi.info/normalize/?lib=423194486
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Caracol Internacional" tvg-name="Canal Caracol Internacional" tvg-logo="Caracol Internacional" group-title="ENTRETENIMIENTO",Caracol Internacional
+http://playkodi.info/genius/caba.php?lib=9878624&f=.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Decasa" tvg-name="Decasa" tvg-logo="Decasa" group-title="ENTRETENIMIENTO",Decasa
+http://playkodi.info/normalize/?lib=1289791845
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Multimedios Plus" tvg-name="Canal Multimedios Plus" tvg-logo="Multimedios Plus" group-title="ENTRETENIMIENTO",Multimedios Plus
+http://playkodi.info/genius/caba.php?lib=9878032&f=.m3u8
