@@ -561,3 +561,14 @@ http://playkodi.info/genius/caba.php?lib=9876868&f=.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI KXTX (TELEMUNDO)" tvg-name="KXTX (TELEMUNDO)" tvg-logo="z" group-title="ENTRETENIMIENTO",Telemundo 39
 http://playkodi.info/normalize/?lib=-809090234
 
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Telemundo Network (West) (TELMUN)" tvg-name="Telemundo Network (West) (TELMUN)" tvg-logo="telemundo_logo_detalle.jpg" group-title="ENTRETENIMIENTO",Telemundo Network Pacífico
+http://playkodi.info/genius/caba.php?lib=9886175&f=.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Telemundo Puerto Rico" tvg-name="Canal Telemundo Puerto Rico" tvg-logo="telemundo_logo_detalle.jpg" group-title="ENTRETENIMIENTO",Telemundo PR
+http://playkodi.info/genius/caba.php?lib=9885042&f=.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal TV Globo Internacional" tvg-name="Canal TV Globo Internacional" tvg-logo="z" group-title="ENTRETENIMIENTO",TV Globo Internacional
+http://playkodi.info/genius/caba.php?lib=9878166&f=.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal TV5MONDE" tvg-name="Canal TV5MONDE" tvg-logo="TV5Monde" group-title="ENTRETENIMIENTO",TV5Monde
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
