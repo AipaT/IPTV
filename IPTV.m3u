@@ -268,7 +268,7 @@ http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Discovery World
 http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Discovey Channel
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Discovery Channel
 http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Animal Planet
