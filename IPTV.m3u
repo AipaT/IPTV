@@ -531,3 +531,8 @@ http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?se
 
 #EXTINF:-1 group-title="Musica",Treny Musica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+
+#EXTINF: -1, Dubai Uno
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
+
+#EXTINF:-1,Nat Geo http://stalker.darkuzdev.cf:8080/streamer/269.m3u8
