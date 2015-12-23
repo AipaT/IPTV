@@ -582,4 +582,36 @@ http://playkodi.info/genius/caba.php?lib=9876890&f=.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Cinema Dinamita" tvg-name="Canal Cinema Dinamita" tvg-logo="Cine Dinamita" group-title="PELÍCULAS-SERIES",Cine Dinamita
 http://playkodi.info/genius/caba.php?lib=9880038&f=.m3u8
 
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Eurochannel" tvg-name="Eurochannel" tvg-logo="Eurochannel" group-title="PELÍCULAS-SERIES",Eurochannel
+http://playkodi.info/genius/caba.php?lib=9881485&f=.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Europa Europa" tvg-name="Europa Europa" tvg-logo="Europa Europa" group-title="PELÍCULAS-SERIES",Europa Europa
+http://playkodi.info/genius/caba.php?lib=9878170&f=.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Golden Multiplex" tvg-name="Canal Golden Multiplex" tvg-logo="Q" group-title="PREMIUM",Golden Multiplex
+http://playkodi.info/genius/caba.php?lib=9877608&f=.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal HBO" tvg-name="Canal HBO" tvg-logo="HBO" group-title="PREMIUM",HBO
+http://playkodi.info/genius/caba.php?lib=9876958&f=.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal HBO 2" tvg-name="Canal HBO 2" tvg-logo="HBO 2" group-title="PREMIUM",HBO 2
+http://playkodi.info/genius/caba.php?lib=9876938&f=.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal HBO Plus" tvg-name="Canal HBO Plus" tvg-logo="HBO Plus Este" group-title="PREMIUM",HBO Plus Este
+http://playkodi.info/genius/caba.php?lib=9877026&f=.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal HBO" tvg-name="Canal HBO" tvg-logo="HBO" group-title="PREMIUM",HBO
+http://playkodi.info/genius/caba.php?lib=9876958&f=.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal HBO 2" tvg-name="Canal HBO 2" tvg-logo="HBO 2" group-title="PREMIUM",HBO 2
+http://playkodi.info/genius/caba.php?lib=9876938&f=.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal HBO Family Este" tvg-name="Canal HBO Family Este" tvg-logo="HBO Family" group-title="PREMIUM",HBO Family
+http://playkodi.info/genius/caba.php?lib=9877022&f=.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal HBO Plus" tvg-name="Canal HBO Plus" tvg-logo="HBO Plus Este" group-title="PREMIUM",HBO Plus Este
+http://playkodi.info/genius/caba.php?lib=9877026&f=.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal HBO Plus Oeste" tvg-name="Canal HBO Plus Oeste" tvg-logo="HBO Plus Oeste" group-title="PREMIUM",HBO Plus Oeste
+http://playkodi.info/genius/caba.php?lib=9876942&f=.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal HBO Signature Latinoamérica" tvg-name="Canal HBO Signature Latinoamérica" tvg-logo="HBO Signature" group-title="PREMIUM",HBO Signature
+http://playkodi.info/genius/caba.php?lib=9877024&f=.m3u8
+
+
 
