@@ -46,7 +46,7 @@ http://200.76.77.237/LIVE/H01/CANAL45/PROFILE03.m3u8?-1332%2F1499-20150816T15353
 #EXTINF:-1 tvg-logo="http://s30.postimg.org/mu3bp96a9/Canal_de_las_estrellas_HD.png" group-title="Cable" ,Canal de las estrellas HD
 http://200.76.77.237/LIVE/H01/CANAL52/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,5 HD
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/plsgmsri1/Canal_5_HD.gif" group-title="Cable" ,5 HD
 http://200.76.77.237/LIVE/H01/CANAL55/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Azteca 7
