@@ -316,7 +316,7 @@ http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/olalgn41p/Fox_Sport.png" group-title="Cable" ,Fox Sport
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/p84wsfbjt/Fox_Sport_2.jpg" group-title="Cable" ,Fox Sport 2
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/cxgjm3ewt/Fox_Sport_2.png" group-title="Cable" ,Fox Sport 2
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,MTV Live HD
