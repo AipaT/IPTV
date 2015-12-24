@@ -199,7 +199,7 @@ http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Distrito Comedia
 http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,TBS
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/e0rh6kks9/TBS.jpg" group-title="Cable" ,TBS
 http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Casa
@@ -390,7 +390,7 @@ http://live.vodgc.com:1935/kLive/0_a5h483eu_all.smil/stream.m3u8
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,TyC Sports HD ?
 http://q.gs:80/9830047/todokodi4?live.m3u8
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Tateti
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/93dwlgit9/Tateti.jpg" group-title="Cable" ,Tateti
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,WOBI TV
