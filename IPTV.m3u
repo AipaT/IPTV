@@ -289,10 +289,10 @@ http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/myc73xd8d/Formula_1.png" group-title="Cable" ,Formula 1
 http://200.76.77.237/LIVE/H01/CANAL511/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,PX TV
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/zbtmoksal/image.png" group-title="Cable" ,PX TV
 http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,AYM
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/zd3khzu49/Ay_M.jpg" group-title="Cable" ,AYM
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,ESPN+
