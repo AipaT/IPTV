@@ -43,7 +43,7 @@ http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?-1332%2F1499-20150816T15353
 #EXTINF:-1 tvg-logo="http://s2.postimg.org/s0h1mfii1/AZ_Corazon.png" group-title="Cable" ,AZ Corazón
 http://200.76.77.237/LIVE/H01/CANAL45/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Canal de las estrellas HD
+#EXTINF:-1 tvg-logo="http://s30.postimg.org/mu3bp96a9/Canal_de_las_estrellas_HD.png" group-title="Cable" ,Canal de las estrellas HD
 http://200.76.77.237/LIVE/H01/CANAL52/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,5 HD
