@@ -16,7 +16,7 @@ http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6c
 #EXTINF:-1 tvg-logo="http://s29.postimg.org/lb0ks3rpz/Mega_HD.png" group-title="Nacionales",Mega HD
 http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
 
-#EXTINF:-1 tvg-logo="http://s12.postimg.org/o62ti0my5/CHV_HD.png" group-title="Nacionales",CHV HD
+#EXTINF:-1 tvg-logo="http://s12.postimg.org/o62ti0my5/CHV_HDF.png" group-title="Nacionales",CHV HD
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 
 #EXTINF:-1 tvg-logo="http://s16.postimg.org/670clsis5/13_HD.png" group-title="Nacionales",13 HD
@@ -313,7 +313,7 @@ http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,ESPN 2
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/7tkok5eex/Fox_Sport.jpg" group-title="Cable" ,Fox Sport
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/xqiyai7g9/Fox_Sport.png" group-title="Cable" ,Fox Sport
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/p84wsfbjt/Fox_Sport_2.jpg" group-title="Cable" ,Fox Sport 2
