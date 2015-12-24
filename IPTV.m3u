@@ -304,10 +304,10 @@ http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/smiye6yil/ESPN_3.jpg" group-title="Cable" ,ESPN 3
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,ESPN 3 HD
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/dgcwn98hp/ESPN_3_HD.jpg" group-title="Cable" ,ESPN 3 HD
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,ESPN 2
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ewt0j50s9/ESPN_2.jpg" group-title="Cable" ,ESPN 2
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/olalgn41p/Fox_Sport.png" group-title="Cable" ,Fox Sport
@@ -367,7 +367,7 @@ http://212.129.30.215/brasileirinhas/brasileirinhas/live.m3u8
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Private
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Jasmin.TV
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/xqetg4z0d/Jasmin_tv.jpg" group-title="Cable" ,Jasmin.TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Sex Station
@@ -380,7 +380,7 @@ http://publish.thewebstream.co:1935/bsx24/mpegts1.stream/playlist.m3u8
 http://ewtn.mpl.miisolutions.net:1935/ewtn-live-4/900.mp4/livestream.m3u8
 
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,TyC Sports
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/b2zk9zjg9/Ty_C_Sport.jpg" group-title="Cable" ,TyC Sports
 http://live.vodgc.com:1935/kLive/0_a5h483eu_all.smil/stream.m3u8
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,TyC Sports HD ?
