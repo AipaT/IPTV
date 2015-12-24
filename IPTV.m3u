@@ -67,25 +67,25 @@ http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,MC
 http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,AZ Mundo
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/obun7qxq5/AZ_Mundo.png" group-title="Cable" ,AZ Mundo
 http://200.76.77.237/LIVE/H01/CANAL276/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Trendy
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/lvsttwfnh/Trendy.png" group-title="Cable" ,Trendy
 http://200.76.77.237/LIVE/H01/CANAL279/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Fashion TV
 http://200.76.77.237/LIVE/H01/CANAL219/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Más Chic
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/v4v040ojh/Ma_s_Chic.png" group-title="Cable" ,Más Chic
 http://200.76.77.237/LIVE/H01/CANAL220/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,FX
 http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Fox Classics
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/3vjmpingd/Fox_Classics.png" group-title="Cable" ,Fox Classics
 http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,AZ Cinema
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/kkpnz69fh/AZ_Cinema.jpg" group-title="Cable" ,AZ Cinema
 http://200.76.77.237/LIVE/H01/CANAL425/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,FOX
@@ -94,25 +94,22 @@ http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,FOX 1 HD
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,FOX Action HD
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ct8y0m5a5/Fox_Action_HD.png" group-title="Cable" ,FOX Action HD
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,FOX Movies HD
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/8zfhrgny5/Fox_Movies_HD.png" group-title="Cable" ,FOX Movies HD
 http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,FOX Cinema
 http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,FOX Family
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/fr5wubcxp/Fox_Family.png" group-title="Cable" ,FOX Family
 http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,FOX Life
 http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,FX HD Revisar
-http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Cinecanal Plus
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jc1sdjhh9/Cinecanal_Plus.png" group-title="Cable" ,Cinecanal +
 http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Cinecanal
