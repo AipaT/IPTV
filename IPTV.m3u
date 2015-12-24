@@ -64,7 +64,7 @@ http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/g52ng67nd/Gala_TV_HD.png" group-title="Cable" ,Gala TV HD
 http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,MC
+#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,MC HDCIN
 http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/obun7qxq5/AZ_Mundo.png" group-title="Cable" ,AZ Mundo
@@ -94,7 +94,7 @@ http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,FOX 1 HD
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/ct8y0m5a5/Fox_Action_HD.png" group-title="Cable" ,FOX Action HD
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/8zfhrgny5/Fox_Movies_HD.png" group-title="Cable" ,FOX Action HD
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/6lxk0g9j1/Fox_Action_HD.jpg" group-title="Cable" ,FOX Movies HD
@@ -109,7 +109,7 @@ http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,FOX Life
 http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/jc1sdjhh9/Cinecanal_Plus.png" group-title="Cable" ,Cinecanal +
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/sz5an9agp/Cinecanal_Plus_HD.png" group-title="Cable" ,Cinecanal + 
 http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Cinecanal
