@@ -286,7 +286,7 @@ http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Discovery TLC
 http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Formula 1
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/myc73xd8d/Formula_1.png" group-title="Cable" ,Formula 1
 http://200.76.77.237/LIVE/H01/CANAL511/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,PX
@@ -313,16 +313,16 @@ http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,ESPN 2
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Fox Sport
+#EXTINF:-1 tvg-logo="http://postimg.org/image/7tkok5eex/" group-title="Cable" ,Fox Sport
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Fox Sport 2
+#EXTINF:-1 tvg-logo="http://postimg.org/image/p84wsfbjt/" group-title="Cable" ,Fox Sport 2
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,MTV Live HD
 http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Telehit HD
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/frf3lsrp5/Telehit_HD.jpg" group-title="Cable" ,Telehit HD
 http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,VH1 HD
@@ -346,14 +346,13 @@ http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Milenio
 http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,El Financiero
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/e9tna8myl/El_Financiero.jpg" group-title="Cable" ,El Financiero
 http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,TVE
 http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Venus
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/dlksrao8t/Venus.jpg" group-title="Cable" ,Venus
 http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Brazzers Europe
@@ -399,7 +398,7 @@ http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Hola TV
 http://200.76.77.237/LIVE/H01/CANAL219/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,CDO HD
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/w7ede1m49/CDO_HD.png" group-title="Cable" ,CDO HD
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Paka Paka
