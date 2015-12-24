@@ -97,7 +97,7 @@ http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/ct8y0m5a5/Fox_Action_HD.png" group-title="Cable" ,FOX Action HD
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/8zfhrgny5/Fox_Movies_HD.png" group-title="Cable" ,FOX Movies HD
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/6lxk0g9j1/Fox_Action_HD.jpg" group-title="Cable" ,FOX Movies HD
 http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,FOX Cinema
