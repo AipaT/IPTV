@@ -313,10 +313,10 @@ http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,ESPN 2
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="http://postimg.org/image/7tkok5eex/" group-title="Cable" ,Fox Sport
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/7tkok5eex/Fox_Sport.jpg" group-title="Cable" ,Fox Sport
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="http://postimg.org/image/p84wsfbjt/" group-title="Cable" ,Fox Sport 2
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/p84wsfbjt/Fox_Sport_2.jpg" group-title="Cable" ,Fox Sport 2
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,MTV Live HD
@@ -334,7 +334,7 @@ http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,MTV Hits
 http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Classic 1
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/v58s98sop/Classic_1.jpg" group-title="Cable" ,Classic 1
 http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Ritmoson
@@ -343,7 +343,7 @@ http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Bandamax
 http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Milenio
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/928k5s6d5/Milenio.jpg" group-title="Cable" ,Milenio
 http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/e9tna8myl/El_Financiero.jpg" group-title="Cable" ,El Financiero
@@ -355,7 +355,7 @@ http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/dlksrao8t/Venus.jpg" group-title="Cable" ,Venus
 http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
 
-#EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Brazzers Europe
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/fl1eipik9/Brazzers.jpg" group-title="Cable" ,Brazzers Europe
 http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
 
 #EXTINF:-1 tvg-logo="lINK" group-title="Cable" ,Olala
